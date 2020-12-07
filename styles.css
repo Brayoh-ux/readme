@@ -1,0 +1,15 @@
+*{
+    background-color: aquamarine;
+    border-collapse: 3px solid blue;
+
+}
+img{
+    flex-direction: column;
+    position: relative;
+    position: inline;
+}
+h1{
+    color: darkmagenta;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 200;
+}
